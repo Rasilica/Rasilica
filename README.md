@@ -27,19 +27,11 @@
 
 ![Rasilica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasilica&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasilica&layout=compact&theme=radical)](https://github.com/Rasilica)
-
 <br>
 
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasilica&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rasilica&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
