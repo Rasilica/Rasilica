@@ -17,12 +17,6 @@
 
 <br>
 
-## 🏆 Baekjoon Profile
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyminpy)](https://solved.ac/pyminpy/)
-
-<br>
-
 ## 📊 GitHub Stats
 
 ![Rasilica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasilica&show_icons=true&theme=radical)
