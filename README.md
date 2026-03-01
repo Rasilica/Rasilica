@@ -6,6 +6,10 @@
 
 <br>
 
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=QjrkrVmC-8M&theme=stream)
+
+<br>
+
 ## 📚 Studying..
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
