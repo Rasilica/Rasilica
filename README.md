@@ -21,16 +21,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-![Rasilica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasilica&show_icons=true&theme=radical)
-
-<br>
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasilica&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
