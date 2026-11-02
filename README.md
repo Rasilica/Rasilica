@@ -1,42 +1,36 @@
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rasilica — Full-stack Software Engineer. Building with curiosity, shipping with AI." />
-</div>
-
-### 01 / ABOUT
-
-I'm a **full-stack software engineer at an early-stage startup**, building across the stack and using AI as a partner in development.
-
-I enjoy turning ideas into working software: exploring a problem, building a practical solution, and improving it through testing and iteration.
-
-`FULL-STACK` &nbsp; `AI-ASSISTED DEVELOPMENT` &nbsp; `BUILD & LEARN`
-
----
-
-### 02 / FEATURED PROJECT
-
-#### [Hybrid AI News Neutrality Analysis](https://github.com/Rasilica/neutrality-project)
-
-A news analysis platform that combines cloud and local language models to analyze articles and comments. The project includes an AI analysis engine, an API server, and a dashboard.
-
-`Python` · `FastAPI` · `Java` · `Spring Boot` · `PostgreSQL` · `Docker`
-
-[Explore the project →](https://github.com/Rasilica/neutrality-project)
-
----
-
-### 03 / TECHNOLOGIES
-
-Technologies I've explored in projects and learning:
-
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,js,html,css,postgres,docker&theme=dark" alt="Python, Java, Spring, FastAPI, JavaScript, HTML, CSS, PostgreSQL, Docker" />
-
----
-
-### 04 / CONNECT
-
-[GitHub](https://github.com/Rasilica) · [Email](mailto:rasilica@zohomail.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rasilica's%20GITHUB&fontSize=90)
 
 <div align="center">
-  <br />
-  <sub>Curious about ideas. Focused on building.</sub>
+
+### 👋 Welcome to my GitHub!
+
+<br>
+
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=QjrkrVmC-8M&theme=stream)
+
+<br>
+
+## 📚 Studying..
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Rasilica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasilica&show_icons=true&theme=radical)
+
+<br>
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasilica&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
